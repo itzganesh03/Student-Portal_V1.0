@@ -16,7 +16,7 @@ Step4*find SQL file on root directory of project
 Step5 * add databse on your system.
 
 Step6 * run server and open the project directory and Enjoy.
-*********************************************************
+*************************************************************
 
 Url:http://dypiu-student-portal.epizy.com/
 
