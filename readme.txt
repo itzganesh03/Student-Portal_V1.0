@@ -1,6 +1,6 @@
-###################
+###############################
 Student management system (SMS) 
-###################
+###############################
 If You run this system in your computer flow this Step:- 
 
 Step1 *Go to Application folder
